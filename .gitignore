@@ -1,0 +1,29 @@
+# built application files
+bin/*
+gen/*
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated GUI files
+*R.java
+
+# vim backup files
+*~
+
+# proguard generated files
+proguard/*
+
+# log files
+system.txt
+radio.txt
+main.txt
+traces.txt
+traces.txt.bugreport
+
+# Thumbs.db
+Thumbs.db
+
