@@ -1,6 +1,7 @@
 # built application files
 bin/*
 gen/*
+obj/*
 
 # files for the dex VM
 *.dex
